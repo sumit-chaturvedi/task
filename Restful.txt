@@ -2,5 +2,7 @@ postman
 restcontroller
 annotation for rest controller
 
+spring project setup
+
 
 thank you
